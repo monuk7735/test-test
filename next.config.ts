@@ -6,7 +6,8 @@ const nextConfig: NextConfig = {
   images: {
     loader: 'akamai',
     path: ''
-  }
+  },
+  assetPrefix: "https://monuk7735.github.io/test-test/"
 };
 
 export default nextConfig;
